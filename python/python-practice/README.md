@@ -1,4 +1,4 @@
-# Python Small Project
+# Python Practive Project
 
 ## Description
 Add your project description here
